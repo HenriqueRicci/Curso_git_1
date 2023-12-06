@@ -16,5 +16,8 @@ A imagem pode estar no próprio repo ou ser externa
 
 Em markdown também é possivel inserir links. 
 
-sintaxe [' Texto do link](link); Visualizar codígo para conseguir ver a sintaxe
+sintaxe [Texto do link](link); Visualizar codígo para conseguir ver a sintaxe
+
+
+[Materia sobre GTA VI do Flow Games](https://flowgames.gg/trailer-gta-6-chegando-o-que-queremos-ver-nele/);
 
