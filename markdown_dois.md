@@ -12,3 +12,9 @@ A imagem pode estar no próprio repo ou ser externa
 ### imagem externa
 
 ![Faces GTA VI](https://flowgames.gg/wp-content/uploads/2023/05/Captura-de-tela-2023-05-31-120459.png)
+
+
+Em markdown também é possivel inserir links. 
+
+sintaxe [' Texto do link](link); Visualizar codígo para conseguir ver a sintaxe
+
