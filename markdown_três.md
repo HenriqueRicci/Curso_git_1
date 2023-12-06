@@ -12,6 +12,10 @@ Código.
 function (a, b){
     return = a + b;
 }
-
-
 ```
+
+
+Exclusivamente para o github, também podemos inserir uma task list (Lista de tarefas)
+
+Sintaxe tarefa concluida - [x] CSS do rodapé
+Para não concluida - [] CSS da pagina de contatos
