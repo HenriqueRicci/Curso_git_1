@@ -19,3 +19,7 @@ Exclusivamente para o github, também podemos inserir uma task list (Lista de ta
 
 Sintaxe tarefa concluida - [x] CSS do rodapé
 Para não concluida - [] CSS da pagina de contatos
+
+- [ X ] Sistema de bonus
+- [ ] Sistema de cashback
+- [ X ] Ambiente
