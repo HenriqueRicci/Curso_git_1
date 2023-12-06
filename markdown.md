@@ -19,7 +19,7 @@ Itálico também é possivel através *Dessa forma* ou _Assim_
 Também podemos mesclar os dois assim __Primeiro negrito__ e depois *itálico*
 
 
-#### Também é possivel criar lista **_ordenadas_** e **_não ordenadas_** em markdown
+### Também é possivel criar lista **_ordenadas_** e **_não ordenadas_** em markdown
 
 * Primeira linha de uma lista não ordenada
 
@@ -27,10 +27,11 @@ Também podemos mesclar os dois assim __Primeiro negrito__ e depois *itálico*
 
 * Terceira linha de uma lista não ordenada
 
-#### Agora uma lista **ordenada**
+### Agora uma lista **ordenada**
 
 1. Primeiro item da lista ordenada
-
+   1. Sublista 
+   
 2. Segundo item da lista ordenada
 
 3. Terceiro item da lista ordenada
