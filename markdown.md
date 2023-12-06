@@ -16,4 +16,4 @@ Também podemos escrever em negrito **Assim** ou __Desta forma__
 
 Itálico também é possivel através *Dessa forma* ou _Assim_
 
-Também podemos mesclar os dois assim __Primeiro negrito e depois *itálico*__
+Também podemos mesclar os dois assim __Primeiro negrito__ e depois *itálico*
