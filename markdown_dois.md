@@ -19,5 +19,9 @@ Em markdown também é possivel inserir links.
 sintaxe [Texto do link](link); Visualizar codígo para conseguir ver a sintaxe
 
 
-[Materia sobre GTA VI do Flow Games](https://flowgames.gg/trailer-gta-6-chegando-o-que-queremos-ver-nele/);
+[Materia sobre GTA VI do Flow Games](https://flowgames.gg/trailer-gta-6-chegando-o-que-queremos-ver-nele/)
+
+Se for do github, basta colocar link completo
+
+Meu perfil: https://github.com/HenriqueRicci
 
