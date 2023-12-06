@@ -28,4 +28,4 @@ Meu perfil: https://github.com/HenriqueRicci
 
 Colocando link com uma imagem. 
 
-[![Clique Aqui](http://www.ipaam.am.gov.br/wp-content/uploads/2017/12/Bot%C3%A3o-Clique-aqui.jpg)](www.google.com.br)
+[![Clique Aqui](http://www.ipaam.am.gov.br/wp-content/uploads/2017/12/Bot%C3%A3o-Clique-aqui.jpg)](https://www.google.com.br)
