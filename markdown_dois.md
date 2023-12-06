@@ -7,3 +7,8 @@ A imagem pode estar no próprio repo ou ser externa
 ### imagem local
 
 ![Logo GTA VI](img/GTA%20VI.jpeg)
+
+
+### imagem externa
+
+![Faces GTA VI](https://flowgames.gg/wp-content/uploads/2023/05/Captura-de-tela-2023-05-31-120459.png)
