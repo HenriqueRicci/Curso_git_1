@@ -7,5 +7,11 @@ Essa sintaxe é do markdown especial do gitbug.
 
 Código.
 
-```Pm.responde(sessiontoken).get  ```
-```Expect.to_integer ```
+``` JavaScript
+
+function (a, b){
+    return = a + b;
+}
+
+
+```
